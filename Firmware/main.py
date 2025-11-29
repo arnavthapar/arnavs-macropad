@@ -27,7 +27,14 @@ led2.direction = digitalio.Direction.OUTPUT
 
 # Turn on LEDs when keyboard starts
 led1.value = True
-led2.value = True
+led2.value = False
 
+def led_hook(_, pressed):
+    """Turn on LED2 when a key is pressed, turn off when released"""
+    led2.value = pressed
+
+keyboard.on_key_press = led_hook
+
+# Start keyboard
 if __name__ == "__main__":
     keyboard.go()
