@@ -22,16 +22,15 @@ keyboard.keymap = [
 led1 = digitalio.DigitalInOut(board.D5)
 led1.direction = digitalio.Direction.OUTPUT
 
-led2 = digitalio.DigitalInOut(board.D6)
-led2.direction = digitalio.Direction.OUTPUT
+# led2 = digitalio.DigitalInOut(board.D6)
+# led2.direction = digitalio.Direction.OUTPUT
 
-# Turn on LEDs when keyboard starts
-led1.value = True
-led2.value = False
+#led1.value = True
+led1.value = False
 
 def led_hook(_, pressed):
     """Turn on LED2 when a key is pressed, turn off when released"""
-    led2.value = pressed
+    led1.value = pressed
 
 keyboard.on_key_press = led_hook
 

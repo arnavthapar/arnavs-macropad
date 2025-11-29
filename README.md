@@ -30,6 +30,8 @@ The schematic and PCB were made in KiCAD, and the case was built in Fusion.
 
 ![PCB](https://github.com/arnavthapar/arnavs-macropad/blob/main/assets/pcb.png)
 
+The dimensions of the PCB are 99.25 and 44.25.
+
 ## Case
 
 ![Case](https://github.com/arnavthapar/arnavs-macropad/blob/main/assets/case.png)
