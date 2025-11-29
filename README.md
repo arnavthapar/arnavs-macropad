@@ -1,6 +1,6 @@
 # Arnav's Macropad
 
-Submssion for hackpad
+Submssion for hackpad.
 This is a simple macropad built of 5 switches and 2 LEDs.
 The switches are in a row design to allow quicker pressing of the buttons.
 
