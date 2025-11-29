@@ -14,12 +14,12 @@ BOM:
 
 ## Schematic
 
-![Schematic](https://github.com/user-attachments/assets/schematic.png)
+![Schematic](https://github.com/arnavthapar/arnavs-macropad/blob/main/assets/schematic.png)
 
 ## PCB
 
-![Schematic](https://github.com/user-attachments/assets/pcb.png)
+![PCB](https://github.com/arnavthapar/arnavs-macropad/blob/main/assets/pcb.png)
 
 ## Case
 
-![Schematic](https://github.com/user-attachments/assets/case.png)
+![Case](https://github.com/arnavthapar/arnavs-macropad/blob/main/assets/case.png)
