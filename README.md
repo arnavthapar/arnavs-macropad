@@ -1,15 +1,23 @@
-# arnavs-macropad
+# Arnav's Macropad
 
-A simple macropad built of 5 switches and 2 LEDs.
+Submssion for hackpad
+This is a simple macropad built of 5 switches and 2 LEDs.
 The switches are in a row design to allow quicker pressing of the buttons.
+
+The PCB fits in the case and should hopefully allow you to press the buttons.
+
+Features:
+
+- 5 Switches
+- 2 LEDs
 
 BOM:
 
 - 4x Cherry MX Switches
 - 4x Blank DSA Keycaps
 - 2x SK6812 MINI Leds
-- 1x XIAO RP2040
-- 1x Case (Top and Botton)
+- XIAO RP2040
+- Case (Top and Bottom)
 - 4x Bolts
 
 ## Schematic
