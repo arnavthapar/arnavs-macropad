@@ -20,6 +20,8 @@ BOM:
 - Case (Top and Bottom)
 - 4x Bolts
 
+The schematic and PCB were made in KiCAD, and the case was built in Fusion.
+
 ## Schematic
 
 ![Schematic](https://github.com/arnavthapar/arnavs-macropad/blob/main/assets/schematic.png)
