@@ -25,7 +25,7 @@ BOM:
 - 3d Printed Case (Top and Bottom)
 - 4x Bolts
 
-The schematic and PCB were made in KiCAD, and the case was built in Fusion.
+The schematic and PCB were made in KiCad, and the case was built in Fusion.
 
 ## Schematic
 
