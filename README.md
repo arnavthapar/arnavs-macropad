@@ -1,5 +1,9 @@
 # Arnav's Macropad
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Made with KiCad](https://img.shields.io/badge/Made%20with-KiCad-blue)
+![Built with Fusion 360](https://img.shields.io/badge/CAD-Fusion%20360-orange)
+
 Submission for Hackpad.
 This is a simple macropad built of 5 switches and 2 LEDs.
 The switches are arranged in a row to allow quick and comfortable button presses.
