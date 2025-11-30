@@ -29,7 +29,7 @@ led1.direction = digitalio.Direction.OUTPUT
 led1.value = False
 
 def led_hook(_, pressed):
-    """Turn on LED2 when a key is pressed, turn off when released"""
+    """Turn on LED1 when a key is pressed, turn off when released"""
     led1.value = pressed
 
 keyboard.on_key_press = led_hook
