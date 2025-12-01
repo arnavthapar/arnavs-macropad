@@ -5,19 +5,21 @@
 ![Built with Fusion 360](https://img.shields.io/badge/CAD-Fusion%20360-orange)
 
 Submission for Hackpad.
-This is a simple macropad built of 5 switches and 2 LEDs.
+This is a simple macropad built of 5 switches, a rotary encoder, and 2 LEDs.
 The switches are arranged in a row to allow quick and comfortable button presses.
 
 The keys currently just type basic letters, as I made this to get experience with PCB and electronic design.
-The PCB fits in the case below the top and will allow the buttons to be easily pressed.
+The PCB fits in the case below the top and will allow the buttons to be easily pressed. The rotary encoder also currently just types basic letters based on the angle.
 
 Features:
 
 - 5 Mechanical Switches
 - 2 SK6812 Mini RGB LEDs
+- 1 Rotary Encoder
 
 BOM:
 
+- EC11 Rotary Encoder
 - 5x Cherry MX Switches
 - 5x Blank DSA Keycaps
 - 2x SK6812 MINI LEDs
@@ -41,7 +43,7 @@ The dimensions of the PCB are 99.25 mm by 44.25 mm.
 
 ![Case](https://github.com/arnavthapar/arnavs-macropad/blob/main/assets/case.png)
 
-The case has 5 cutouts for the keys and 2 smaller holes for the LED light to shine through. The large cutout on the bottom right is for the XIAO RP2040.
+The case has 5 cutouts for the keys and 2 smaller holes for the LED light to shine through. The large cutout on the bottom right is for the XIAO RP2040. It also has one cutout in the bottom left for the rotary encoder.
 
 ## Assembly
 
