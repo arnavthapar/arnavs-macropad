@@ -13,9 +13,9 @@ The PCB fits in the case below the top and will allow the buttons to be easily p
 
 Features:
 
-- 5 Mechanical Switches
-- 2 SK6812 Mini RGB LEDs
-- 1 Rotary Encoder
+- 5x Mechanical Switches
+- 2x SK6812 Mini RGB LEDs
+- Rotary Encoder
 
 BOM:
 
